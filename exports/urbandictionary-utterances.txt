@@ -1,0 +1,4 @@
+DefineIntent	define {SJW|Term}
+DefineIntent	define {Donald Trump|Term}
+DefineIntent	define {Netflix and Chill|Term}
+

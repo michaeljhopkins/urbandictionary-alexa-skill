@@ -1,0 +1,13 @@
+{
+   "intents": [
+      {
+         "intent": "DefineIntent",
+         "slots": [
+            {
+               "name": "Term",
+               "type": "LITERAL"
+            }
+         ]
+      }
+   ]
+}

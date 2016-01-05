@@ -1,0 +1,26 @@
+{
+  "name": "urbandictionary-alexa-skill",
+  "version": "0.0.0",
+  "description": "An Amazon Alexa skill to interact with Urban Dictionary. Base project forked from https://github.com/MaxwellPayne/urbandictionary-alexa",
+  "author": "Michael Hopkins",
+  "main": "index.js",
+  "homepage": "https://github.com/michaeljhopkins/urbandictionary-alexa-skill",
+  "scripts": {
+  },
+  "dependencies": {
+    "config" : "1.16.0",
+    "alexa-app" : "2.2.0",
+    "pb-node": "^2.0.1",
+    "querystring": "^0.2.0",
+    "urban": "latest",
+    "underscore": "latest"
+  },
+
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.8.0",
+    "npm": "^2.8.3"
+  }
+
+}

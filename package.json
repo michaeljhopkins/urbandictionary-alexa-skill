@@ -8,6 +8,7 @@
   "scripts": {},
   "dependencies": {
     "alexa-app": "2.2.0",
+    "config": "^1.17.1",
     "querystring": "^0.2.0",
     "ssml": "0.0.3",
     "underscore": "latest",

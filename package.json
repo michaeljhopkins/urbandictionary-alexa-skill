@@ -5,22 +5,18 @@
   "author": "Michael Hopkins",
   "main": "index.js",
   "homepage": "https://github.com/michaeljhopkins/urbandictionary-alexa-skill",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
-    "config" : "1.16.0",
-    "alexa-app" : "2.2.0",
-    "pb-node": "^2.0.1",
+    "alexa-app": "2.2.0",
     "querystring": "^0.2.0",
-    "urban": "latest",
-    "underscore": "latest"
+    "ssml": "0.0.3",
+    "underscore": "latest",
+    "urban": "latest"
   },
-
   "devDependencies": {
     "aws-sdk": "latest",
     "grunt": "0.4.*",
     "grunt-aws-lambda": "0.8.0",
     "npm": "^2.8.3"
   }
-
 }
